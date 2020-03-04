@@ -8,6 +8,12 @@
   <li>Applying Kmeans model to determine different classes of drivers
 </ol>
 
+<h2> The joint files :</h2>
+<ul>
+  <li>SQL code to manipulate database in bigquery
+  <li>Jupyter Notebook file with python
+</ul>
+
 
 
 
